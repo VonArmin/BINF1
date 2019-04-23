@@ -2,9 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$USER_HOME$/PycharmProjects/BINF1" vcs="Git" />
-    <mapping directory="$USER_HOME$/PycharmProjects/Three-Musketeers" vcs="Git" />
-    <mapping directory="$USER_HOME$/PycharmProjects/owe2a" vcs="Git" />
-    <mapping directory="$USER_HOME$/PycharmProjects/owe2a-afvinkopdracht3-VonArmin" vcs="Git" />
   </component>
 </project>
