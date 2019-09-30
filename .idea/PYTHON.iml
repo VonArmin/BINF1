@@ -4,12 +4,9 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="owe2a" />
-    <orderEntry type="module" module-name="Three-Musketeers" />
     <orderEntry type="library" name="R User Library" level="project" />
     <orderEntry type="library" name="R Skeletons" level="application" />
-    <orderEntry type="module" module-name="HTML/CSS" />
-    <orderEntry type="module" module-name="BINF1" />
+    <orderEntry type="module" module-name="BLOK_4_groep_2" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
